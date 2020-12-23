@@ -8,7 +8,7 @@
 8. Find the middle of a given linked list                                     - getMiddleLinkedList.go             - [x]
 9. Count the number of times a given int occurs in a linked list              - countOccurenceLinkedList.go
 10. Reverse a linked list - recursive and iterative                           - reverseLinkedList.go               - [x]
-11. How to add an element in the middle of the linked list?                   - addNodeToMiddleLinkedlist.go
+11. How to add an element in the middle of the linked list?                   - addNodeToMiddleLinkedlist.go       - [x]
 12. How to remove Nth Node from the end of a linked list?                     - deleteLastNodeLinkedlist.go        - [x]
 13. How do you check if a given linked list contains a cycle?                 - checkIfCyclicLinkedlist.go
 14. How do you find the starting node of the cycle?                           - startingNodeOfaCycleLinkedlist.go
