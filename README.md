@@ -13,7 +13,7 @@
 13. How do you check if a given linked list contains a cycle?                 - checkIfCyclicLinkedlist.go         - [x]
 14. How do you find the starting node of the cycle?                           - startingNodeOfaCycleLinkedlist.go
 15. How do you find the third node from the end in a singly linked list?      - thirdNodeFromEndLinkedlist.go
-16. How do you sort a linked list?                                            - sortLinkedlist.go
+16. How do you bubble sort a linked list?                                     - bubblesortLinkedList.go
 
 # To do
 3. How do you find the sum of two linked lists using Stack?
@@ -21,7 +21,6 @@
 7. How to convert a sorted list to a binary search tree?
 8. Given a linked list and a value x, partition it such that all nodes less than x come before nodes greater than or equal to x.
 9. How to remove duplicates from a sorted linked list?
-10. How to find the node at which the intersection of two singly linked lists begins.
 11. How to check if a given linked list is a palindrome?
 12. How to remove all elements from a linked list of integers which match with given value?
 13. How are duplicate nodes removed in an unsorted linked list?
