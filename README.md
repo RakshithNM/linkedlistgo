@@ -14,10 +14,12 @@
 14. How do you find the starting node of the cycle?                           - startingNodeOfaCycleLinkedlist.go
 15. How do you find the third node from the end in a singly linked list?      - thirdNodeFromEndLinkedlist.go
 16. How do you bubble sort a linked list?                                     - bubblesortLinkedList.go
+17. How to merge two sorted linked lists?                                     - mergeSortedLinkedList.go           - [x]
+18. Given a linked list and a value x, partition it such that all nodes less  - arrangementLinkedList.go           - [x]
+    than x come before nodes greater than or equal to x.
 
 # To do
 3. How do you find the sum of two linked lists using Stack?
-6. How to merge two sorted linked lists?
 7. How to convert a sorted list to a binary search tree?
 8. Given a linked list and a value x, partition it such that all nodes less than x come before nodes greater than or equal to x.
 9. How to remove duplicates from a sorted linked list?
