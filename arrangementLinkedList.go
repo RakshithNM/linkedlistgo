@@ -35,52 +35,65 @@ func arrange(l *linkedList, x int) *node {
 	current := l.headpointer
 	for current != nil {
 		if current.data == x {
+			// Initially assign current to the head and tail
 			if equalHead == nil {
 				equalHead = current
 			}
 			if equalTail == nil {
 				equalTail = current
 			} else {
+				// Create a list with the equal values
 				equalTail.nextnodepointer = current
 				equalTail = current
 			}
 		} else if current.data < x {
+			// Initially assign current to the head and tail
 			if lowerHead == nil {
 				lowerHead = current
 			}
 			if lowerTail == nil {
 				lowerTail = current
 			} else {
+				// Create a list with the lower values - not sorted
 				lowerTail.nextnodepointer = current
 				lowerTail = current
 			}
 		} else {
+			// Initially assign current to the head and tail
 			if greaterHead == nil {
 				greaterHead = current
 			}
 			if greaterTail == nil {
 				greaterTail = current
 			} else {
+				// Create a list with the greater values - not sorted
 				greaterTail.nextnodepointer = current
 				greaterTail = current
 			}
 		}
 		current = current.nextnodepointer
 	}
+	// Set the tail of the linkedList
 	if greaterHead != nil {
 		greaterTail.nextnodepointer = nil
 	}
+	// Connecting all three lists begins
+	// Check if lowerList is not existent
 	if lowerHead == nil {
+		// If lowerList and  equalList is not present, return greaterHead
 		if equalHead == nil {
 			return greaterHead
 		} else {
+			// If lowerList not present and equalList is present, connect equalList to greaterList
 			equalTail.nextnodepointer = greaterHead
 			return equalHead
 		}
+		// If equalList is not present connect lowerList to greaterList
 	} else if equalHead == nil {
 		lowerTail.nextnodepointer = greaterHead
 		return lowerHead
 	}
+	// All present, connect all
 	lowerTail.nextnodepointer = equalHead
 	equalTail.nextnodepointer = greaterHead
 	return lowerHead
