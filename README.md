@@ -1,4 +1,4 @@
-1. Append to a linked list                                                    - insertLinkedList.go
+1. (Append to a linked list)[https://github.com/RakshithNM/linkedlistgo/blob/main/insertLinkedList.go]
 2. Insert a nth position to a linked list                                     - insertAtNthPositionLinkedList
 3. Get nth node of a linked list given the index - returns the data at index  - getNthNodeLinkedList.go
 4. Delete a node from linked list - passing the index                         - deleteWithIndexLinkedList.go
