@@ -17,12 +17,12 @@
 17. How to merge two sorted linked lists?                                     - mergeSortedLinkedList.go           - [x]
 18. Given a linked list and a value x, partition it such that all nodes less  - arrangementLinkedList.go           - [x]
     than x come before nodes greater than or equal to x.
+19. How to remove duplicates from a sorted linked list?                       - removeDuplicatesLinkedList.go      - [x]
 
 # To do
 3. How do you find the sum of two linked lists using Stack?
 7. How to convert a sorted list to a binary search tree?
 8. Given a linked list and a value x, partition it such that all nodes less than x come before nodes greater than or equal to x.
-9. How to remove duplicates from a sorted linked list?
 11. How to check if a given linked list is a palindrome?
 12. How to remove all elements from a linked list of integers which match with given value?
 13. How are duplicate nodes removed in an unsorted linked list?
