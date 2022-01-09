@@ -17,7 +17,6 @@
 17. [How to merge two sorted linked lists?](https://github.com/RakshithNM/linkedlistgo/blob/main/mergeSortedLinkedList.go)
 18. [Given a linked list and a value x, partition it such that all nodes less than x come before nodes greater than or equal to x.](https://github.com/RakshithNM/linkedlistgo/blob/main/arrangementLinkedList.go)
 19. [How to remove duplicates from a unsorted linked list?](https://github.com/RakshithNM/linkedlistgo/blob/main/removeDuplicatesUnsortedLinkedList.go)
-20. [How are duplicate nodes removed in an unsorted linked list?](https://github.com/RakshithNM/linkedlistgo/blob/main/removeDuplicatesSortedLinkedList.go)
 
 # To do
 3. How do you find the sum of two linked lists using Stack?
