@@ -18,10 +18,10 @@
 18. [Given a linked list and a value x, partition it such that all nodes less than x come before nodes greater than or equal to x.](https://github.com/RakshithNM/linkedlistgo/blob/main/arrangementLinkedList.go)
 19. [How to remove duplicates from a unsorted linked list?](https://github.com/RakshithNM/linkedlistgo/blob/main/removeDuplicatesUnsortedLinkedList.go)
 20. [How to remove duplicates from a sorted linked list?](https://github.com/RakshithNM/linkedlistgo/blob/main/removeDuplicatesSortedLinkedList.go)
+21. [How to remove all elements from a linked list of integers which match with given value?](https://github.com/RakshithNM/linkedlistgo/blob/main/removeMatchingLinkedList.go)
 
 # To do
 3. How do you find the sum of two linked lists using Stack?
 7. How to convert a sorted list to a binary search tree?
 11. How to check if a given linked list is a palindrome?
-12. How to remove all elements from a linked list of integers which match with given value?
 14. How do you find the length of a singly linked list?
