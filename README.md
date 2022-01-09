@@ -7,7 +7,7 @@
 7. [Prepend a node to a linked list](https://github.com/RakshithNM/linkedlistgo/blob/main/prependLinkedList.go)
 8. [Find the middle of a given linked list](https://github.com/RakshithNM/linkedlistgo/blob/main/getMiddleLinkedList.go)
 9. [Count the number of times a given int occurs in a linked list](https://github.com/RakshithNM/linkedlistgo/blob/main/countOccurenceLinkedList.go)
-10. [Reverse a linked list - recursive and iterative](https://github.com/RakshithNM/linkedlistgo/blob/main/reverseLinkedList.go)
+10. [Reverse a linked list - recursive and iterative](https://github.com/RakshithNM/linkedlistgo/blob/main/reverseLinkedListIandR.go)
 11. [How to add an element in the middle of the linked list?](https://github.com/RakshithNM/linkedlistgo/blob/main/addNodeToMiddleLinkedlist.go)
 12. [How to remove Nth Node from the end of a linked list?](https://github.com/RakshithNM/linkedlistgo/blob/main/deleteLastNodeLinkedlist.go)
 13. [How do you check if a given linked list contains a cycle?](https://github.com/RakshithNM/linkedlistgo/blob/main/checkIfCyclicLinkedlist.go)
